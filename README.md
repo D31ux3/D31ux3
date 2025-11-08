@@ -2,7 +2,7 @@
 <body>
 
 <div align="center">
-  <h1 style="font-family:'Lucida Handwriting', cursive; font-size:2.5em; margin:0;">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮</h1>
+  <h1>𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮</h1>
 </div>
 <div align="right">
   <a href="https://git.io/typing-svg">
