@@ -2,7 +2,7 @@
 <body>
 
 
-<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮</h1>
+<h1 align="center">💠 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮  💠</h1>
 
 <div align="right">
   <a href="https://git.io/typing-svg">
