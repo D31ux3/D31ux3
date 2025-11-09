@@ -16,7 +16,7 @@
 <h2>𝓐𝓫𝓸𝓾𝓽 𝓶𝓮...</h2>
 </body>
 
-- **Age:** 2y.o
+- **Age:** 22y.o
 - **Hobbies:** Games, Anime, Programming, Blender
 
 
