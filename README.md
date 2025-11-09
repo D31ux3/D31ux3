@@ -16,8 +16,16 @@
 <h2>𝓐𝓫𝓸𝓾𝓽 𝓶𝓮...</h2>
 </body>
 
-- **Age:** 22y.o
-- **Hobbies:** Games, Anime, Programming, Blender
+
+<div>
+  <ul>
+    <li><strong>Age:</strong> 22y.o</li>
+    <li><strong>Hobbies:</strong> Games, Anime, Programming, Blender</li>
+  </ul>
+</div>
+<div align="center">
+  <img src="./imgs/86anime-lena-red.gif" alt="Lena" width="700" />
+</div>
 
 
-![Lena](./imgs/86anime-lena-red.gif)
+
