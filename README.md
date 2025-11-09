@@ -1,9 +1,9 @@
 
 <body>
 
-<div align="center">
-  <h1>𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮</h1>
-</div>
+
+<h1 align="center">𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮</h1>
+
 <div align="right">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15346E&width=435&lines=...nice+to+meet+you" alt="Typing SVG" />
