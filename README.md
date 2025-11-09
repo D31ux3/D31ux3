@@ -20,4 +20,4 @@
 - **Hobbies:** Games, Anime, Programming, Blender
 
 
-
+![Lena](./imgs/86anime-lena-red.gif)
