@@ -13,18 +13,11 @@
 </div>
 
 
-<div>
-   <h2>𝓐𝓫𝓸𝓾𝓽 𝓶𝓮...</h2>
-   
-</div>
-
+<h2>𝓐𝓫𝓸𝓾𝓽 𝓶𝓮...</h2>
 </body>
 
+- **Age:** 2y.o
+- **Hobbies:** Games, Anime, Programming, Blender
 
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
