@@ -19,8 +19,11 @@
 
 <div>
   <ul>
-    <li><strong>Age:</strong> 22y.o</li>
-    <li><strong>Hobbies:</strong> Games, Anime, Programming, Blender</li>
+    <li><b>Age:</b> 22y.o</li>
+    <li><b>Hobbies:</b> Games, Anime, Programming, Blender</li>
+    <li><b>Favourite Game:</b> Persona 5 Royal</li>
+    <li><b>Favourite Anime:</b> 86 - Eighty Six</li>
+    <li><b>Favourite Languages:</b> JavaScript, C#</li>
   </ul>
 </div>
 <div align="center">
