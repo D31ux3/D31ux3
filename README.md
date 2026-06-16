@@ -65,7 +65,7 @@
 </ul>
 
 <div align="center">
-  <img src="./imgs/86-lena.gif" alt="Shin & Lena" width="550" />
+  <img src="./imgs/86anime-spearhead-squadron.gif " alt="Shin & Lena" width="550" />
 </div>
 
 <footer align="center">
