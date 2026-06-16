@@ -35,6 +35,22 @@
       <td><b>Favorite Languages:</b></td>
       <td>JavaScript, C#</td>
     </tr>
+    <tr>
+      <td><b>Currently Learning:</b></td>
+      <td>Godot, React, Pixel Art</td>
+    </tr>
+    <tr>
+      <td><b>Interested In:</b></td>
+      <td>Game Development, Web Apps, Creative Coding</td>
+    </tr>
+    <tr>
+      <td><b>Dream Project:</b></td>
+      <td>Building a memorable indie game</td>
+    </tr>
+    <tr>
+      <td><b>Tools:</b></td>
+      <td>VS Code, Blender, Aseprite, Git, Linux</td>
+    </tr>
   </table>
 </div>
 
