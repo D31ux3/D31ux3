@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>Currently Learning:</b></td>
-      <td>Godot, React, Pixel Art</td>
+      <td>Godot, React, Art</td>
     </tr>
     <tr>
       <td><b>Interested In:</b></td>
